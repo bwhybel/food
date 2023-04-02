@@ -26,6 +26,7 @@
 	     :publishing-function 'org-html-publish-to-html
 	     :with-creator nil
 	     :with-toc nil
+	     :with-author nil
 	     :html-validation-link nil
 	     :time-stamp-file nil
 	     :section-numbers nil)))
